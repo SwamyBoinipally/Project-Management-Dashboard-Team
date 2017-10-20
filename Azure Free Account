@@ -1,0 +1,31 @@
+	Azure Free Account
+=============================
+For this account given HDFC bank creds:
+===========================================
+Login creds:
+id:	swamydochetech@gmail.com
+pwd:	Swami@May20178
+
+1. create users AD tenant
+
+Domain:		swamydochetechgmail.onmicrosoft.com
+user name:	swa@swamydochetechgmail.onmicrosoft.com
+pwd:		Ravo74849
+
+2.  Create application registration from same location
+	object Id:	caa8b5e4-5478-4bb7-8d0f-fab6a34f60a3
+	application ID:	0e8d12b5-089a-471b-81be-a07973321b16
+	app ID URI:	https://swamydochetechgmail.onmicrosoft.com/6288637f-91d1-4f35-801d-f2282ee8c6b9
+
+
+	Key:		khbnFHzKHOge0Hj4MFlRud3HjOVKgfpRjFAutWDG8cA=
+	
+	VMT 
+==================
+
+
+Key:	hyrgqwjdfbw4534efqrwer2q38945765
+tenant: 'amlanrpvtltd.onmicrosoft.com',
+            
+clientId: '30b28743-c658-48d6-9b89-93b4d5dc9eef',
+	
