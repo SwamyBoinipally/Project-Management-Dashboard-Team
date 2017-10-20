@@ -4,12 +4,28 @@ For this account given HDFC bank creds:
 ===========================================
 Login creds:
 id:	swamydochetech@gmail.com
-pwd:	Swami@May20178
+pwd:	Swami@May20170
 
-1. create users AD tenant
+1. create users AD tenant:
 
 Domain:		swamydochetechgmail.onmicrosoft.com
-user name:	swa@swamydochetechgmail.onmicrosoft.com
+
+USERS:
+------
+User & global admin 1:
+id name:	swa@swamydochetechgmail.onmicrosoft.com
+pwd:		Ravo74849
+
+User 2:
+id name:	swamy@swamydochetechgmail.onmicrosoft.com
+pwd:		Ravo74849
+
+User 3:
+id name:	swa@swamydochetechgmail.onmicrosoft.com
+pwd:		Ravo74849
+
+User 4:
+id name:	swa@swamydochetechgmail.onmicrosoft.com
 pwd:		Ravo74849
 
 2.  Create application registration from same location
