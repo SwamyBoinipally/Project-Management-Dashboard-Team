@@ -45,3 +45,9 @@ tenant: 'amlanrpvtltd.onmicrosoft.com',
             
 clientId: '30b28743-c658-48d6-9b89-93b4d5dc9eef',
 	
+
+
+Fatal: NotSupportedException encountered.             
+Username for 'https://vstsustglobal.visualstudio.com': u57553
+Fatal: NotSupportedException encountered.
+fatal: Authentication failed for 'url'
