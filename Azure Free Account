@@ -51,3 +51,27 @@ Fatal: NotSupportedException encountered.
 Username for 'https://vstsustglobal.visualstudio.com': u57553
 Fatal: NotSupportedException encountered.
 fatal: Authentication failed for 'url'
+=============================================================================================================
+Git
+=============================================================================================================
+If you have any access restrictions please let us know.
+ 
+Please follow these steps that will help you to push / check in the code to our repository: à
+ 
+Step 1: Open the link and on the top right corner you’ll find a ‘Clone’ button. Click  it and you’ll see a link in the textfield.
+ 
+Step 2: Copy the link and click on “Generate Git Credentials”. Enter both the password fields, the password used to login to the system, and hit “Save Git Credentials”.
+ 
+Step 3: Open the cmd and go to a suitable folder to clone the repository. Type the command “git clone <paste the url from the textfield here>” and hit enter.
+ 
+Step 4: Depending on your system, a pop up will open asking you to enter your username and password, ignore the same and close the popup, after you’ve closed the popup a username and password prompt will be asked on the cmd, please enter the ust email id and password used to login to the system.
+ 
+Step 5: After step 4 the repository will be copied / cloned to your systems.
+ 
+Step 6: Replace all the files that you have made changes to in this cloned folder.
+ 
+Step 7: After making sure that all the changes are done, type “git add .” in the command prompt.
+ 
+Step 8: Then type “git commit -am ‘ <any commit message>’”, make sure the commit message is in quotes. The message can be anything describing the changes made.
+ 
+Step 9: Now type “git push origin master”, this will add the files to the master repository and update the files, which we can later access and use.
